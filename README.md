@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Akanksha 👋
 
-<!--
-**AkankshaCodes-Dev/AkankshaCodes-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 2024–2027
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 Currently learning Python, SQL, and Microsoft Excel.
+- 🐍 Building beginner-friendly Python projects.
+- 💡 Interested in data analytics and problem-solving.
+- 🎯 Preparing for Data Analyst internship opportunities.
+
+## Skills
+- Python
+- SQL
+- Microsoft Excel
+
+## Projects
+- **Personal Expense Tracker:** A beginner Python project currently in development.
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/b-akanksha-543200376
